@@ -10,6 +10,30 @@ public class mainn {
 		
 		
 		System.out.println("hola desde el segundooooo");
+				System.out.println("hola mundo");
+		System.out.println("Para sincronizarrrrrrrrrrrr diferencias");
+		
+		
+		
+		System.out.println("hola desde el segundooooo");
+				System.out.println("hola mundo");
+		System.out.println("Para sincronizarrrrrrrrrrrr diferencias");
+		
+		
+		
+		System.out.println("hola desde el segundooooo");
+				System.out.println("hola mundo");
+		System.out.println("Para sincronizarrrrrrrrrrrr diferencias");
+		
+		
+		
+		System.out.println("hola desde el segundooooo");
+				System.out.println("hola mundo");
+		System.out.println("Para sincronizarrrrrrrrrrrr diferencias");
+		
+		
+		
+		System.out.println("hola desde el segundooooo");
 	}
 	
 
